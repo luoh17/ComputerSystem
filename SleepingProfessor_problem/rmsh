@@ -1,0 +1,7 @@
+#!/bin/bash 
+for i in $(ipcs -a | grep "^s" | awk '{ print $2 }');
+do
+#        echo "ipcrm -s $i"
+        ipcrm -s $i  2> /dev/null
+done
+
