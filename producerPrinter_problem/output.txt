@@ -1,0 +1,6 @@
+1234*6#9*ABCDEFGHI*<EOL>*
+bcdefghij#bcdefghi<EOL>##
+*XXXXXabcdefghij<EOL>####
+######<EOL>##########<EOL
+>ABCDEFGHIJKLMNOPQRST<EOL
+>#                 Z<EOL>
